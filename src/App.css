@@ -36,16 +36,12 @@
     transform: rotate(360deg);
   }
 }
-/* .card-body{
-  position: absolute;
-} */
 .image{
   background-color:#a8abab;
   width: 237px;
   height: 100px;
   padding: 40px;
 }
-
 img{
   margin: 80px;  
 }
@@ -55,7 +51,6 @@ img{
   top: 27px;
   font-size: 5px;
 }
-
 .cart-bottom{
   background-color: rgb(237, 236, 234);
   height: 60px;
